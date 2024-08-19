@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865222285329",
+    "project_id": "notewhatever12",
+    "storage_bucket": "notewhatever12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865222285329:android:1c0290439c34be5d67b9b0",
+        "android_client_info": {
+          "package_name": "com.note12.my_fire_base"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDid-gcFQcytbX0EWO6eITRnThKIYEYdvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
